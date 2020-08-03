@@ -1,6 +1,6 @@
 
 
-function GetDigitCount(number) // сколько чисел в цифре
+function GetDigitCount(number) 
 {
     return String(number).length
 }
