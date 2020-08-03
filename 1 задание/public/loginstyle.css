@@ -1,0 +1,21 @@
+.LoginForm
+{
+    width: 100vw;
+    display: flex;
+}
+.formstyle
+{
+    margin-top:1rem;
+    width: 60%;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+}
+
+.butclass
+{
+    width: 100%;
+    margin-top: 1rem;
+}
